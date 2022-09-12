@@ -16,6 +16,8 @@ export default function Login() {
 					<a href="#" className="social"><i className=" fab fa fa-instagram fa-2x"></i></a>
 					<a href="#" className="social"><i className=" fab fa fa-google fa-2x"></i></a>
 				</div>
+				<span>Email: test and Password: test</span>
+				<br/>
 				<span className='loginspan'>or use your account</span>
 				<input className='logininput' type="email" placeholder="Email" />
 				<input className='logininput' type="password" placeholder="Password" />
